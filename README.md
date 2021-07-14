@@ -56,5 +56,14 @@ If they want to see other users posts, they will see that on Dashboard.
 <br />
 ### Filters- Filter posts by users. Sort posts by date and time.
 ![image info](./screenshots/ss7.png)
+<br />
+<br />
+
+-----------------------------------------------------------------------
 
 
+Thank You :blush:
+
+&copy; 2021 Thenerddeveloper. All Rights Reserved
+
+*last updated on July 14, 2021*
