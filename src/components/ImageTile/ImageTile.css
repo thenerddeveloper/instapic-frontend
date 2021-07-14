@@ -1,0 +1,18 @@
+.tile img{
+    width: 100%;
+}
+.post-title{
+    padding-top: 5px;
+}
+.post-date{
+    display: block;
+    float: right;
+}
+.tile{
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 10px 0px #ddd;
+    background: white;
+}
